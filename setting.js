@@ -19,9 +19,9 @@ global.saipulapi = 'https://saipulanuar.ga'
 global.ibengapi = 'https://api.ibeng.tech'
 
 // API Key For https://danzzapi.xyz & https://api-danzz.xyz
-global.apikey = 'YOUR APIKEY' // Get in: https://danzzapi.xyz
-global.apikeyprem = 'BELI APIKEY? CHAT: wa.me/6289512545999 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
-global.apikeyvip = 'BELI APIKEY? CHAT: wa.me/6289512545999 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
+global.apikey = '925n2c494' // Get in: https://danzzapi.xyz
+global.apikeyprem = 'BELI APIKEY? CHAT: wa.me/62895366943070 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
+global.apikeyvip = 'BELI APIKEY? CHAT: wa.me/62895366943070 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
 
 // API Key For https://saipulanuar.ga
 global.saipulkey = `Warning: API saipulanuar.ga Don't use the key`
