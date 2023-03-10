@@ -33,15 +33,15 @@ global.ibengkey = 'tamvan'
 global.sessionName = 'session'
 
 // Control
-global.botName = 'Danzz Bot'
-global.ownerName = 'Danzz Coding'
-global.ownerNumber = ['6289512545999']
-global.botNumber = ['6288296339947']
-global.premiumNumber = ['6289512545999','6288296339947']
+global.botName = 'Amell Bot'
+global.ownerName = 'Melly Coding'
+global.ownerNumber = ['62895366943070']
+global.botNumber = ['6285393502403']
+global.premiumNumber = ['62895366943070','6285393502403']
 global.packname = '2023 © Created By'
-global.author = 'www.danzzcoding.my.id'
+global.author = 'www.amelcoding.my.id'
 global.prefa = ['.']
-global.wm = '© Danzz Coding - All Rights Reserved.'
+global.wm = '© Amell Coding - All Rights Reserved.'
 global.menustyle = '>'
 //global.menustyle = '•'
 
